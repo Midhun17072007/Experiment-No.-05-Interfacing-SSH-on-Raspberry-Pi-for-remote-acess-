@@ -1,11 +1,7 @@
 # Experiment-No.-05-Interfacing-SSH-on-Raspberry-Pi-for-remote-access-
-### NAME
-### ROLL NO:
-### DEPARTMENT 
-### DATE
-
-
-
+### NAME:MIDHUN S
+### ROLL NO:212224230158
+### DEPARTMENT:AIDS
  ## AIM:
 To enable and establish a secure SSH (Secure Shell) connection with the Raspberry Pi, allowing remote terminal access for configuration and control.
 ## APPARATUS REQUIRED:
